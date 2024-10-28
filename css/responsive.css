@@ -41,12 +41,44 @@
         width: 100%;
     }
 
+    .list-content {
+        padding: 15px;
+    }
+
     .header-context {
         padding: 20px 0px;
     }
 
     .list-content > p {
         font-size: 14px;
+    }
+
+    .Card_cardRow__1j4qH .Card_cardBonus__399vW .Card_offerText__6J0IN {
+        font-size: 13px !important;
+    }
+
+    .list-content-home > p {
+        font-size: 14px;
+    }
+    .footer-license-images.py-4 {
+        padding: 20px 0px 0px 0px !important;
+    }
+
+    .footer {
+        padding: 30px 15px 0px 15px;
+    }
+
+    p.footer-copyright {
+        font-size: 12px !important;
+    }
+
+    p.footer-p-a {
+        font-size: 12px;
+        line-height: 20px;
+    }
+
+    span.span-b-offer {
+        font-size: 17px !important;
     }
 
     .list-content > ul > li{
